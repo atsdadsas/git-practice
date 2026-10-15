@@ -1,4 +1,4 @@
-#git-practice
+# git-practice
 コンピュータ実践演習2のGitの練習用のリポジトリです
 
 ## 必要なもの
